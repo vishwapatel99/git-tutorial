@@ -1,1 +1,1 @@
-We are learning Git.
+We are learning Git.This is our first VCS Class. 
